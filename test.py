@@ -12,7 +12,4 @@
 "sfsfsererwrwrw"
 "sfsfsererwrwrw"
 "sfsfsererwrwrw"
-"main"
-"main"
-"main"
 
